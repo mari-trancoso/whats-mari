@@ -28,6 +28,7 @@ function App () {
       />
 
       <h1>{currSender}</h1>
+      <p>Testando nova branch</p>
     </>
   )
 }
